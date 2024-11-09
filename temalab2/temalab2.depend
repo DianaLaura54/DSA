@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646424784 source:c:\users\dyala\desktop\temalab2\main.c
+	<stdio.h>
+	<stdlib.h>
+

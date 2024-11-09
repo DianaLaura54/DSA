@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647096450 source:c:\users\dyala\desktop\temalab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
